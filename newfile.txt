@@ -1,3 +1,4 @@
  Hello from github class
 i made this changes in github so that i can perform git pull
 its just for the practice.
+i want to make this changes for git fetch
